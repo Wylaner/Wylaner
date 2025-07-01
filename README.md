@@ -1,4 +1,4 @@
-## Hi there 👋
+# hi im wylaner and my pronouns are he/him
 
 <!--
 **Wylaner/Wylaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
